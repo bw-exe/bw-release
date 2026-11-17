@@ -11,7 +11,7 @@
 param(
     [string]$ReleaseRepo = "bw-exe/bw-release",
     [string]$Version = "v0.1.0",
-    [string]$ExpectedHash = "1E6904833DF13565EE0A5A432B8D33C61B0BFA327EA683E318FC512E17A74221"
+    [string]$ExpectedHash = "8453C9B6D5CB9BBE347E2EFF533C1EB2C17F9D3EB51B71153DC5B87E9BD85BB7"
 )
 
 $ErrorActionPreference = 'Stop'
